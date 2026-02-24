@@ -31,7 +31,7 @@
 
 ### 📈 GitHub Stats
 
-![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingsleykayjay&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=kingsleykayjay&show_icons=true&theme=radical)
 
 ### 🔐 Cybersecurity Focus
 
