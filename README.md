@@ -1,31 +1,46 @@
-# Kingsley Nwosuagwu
+# Hi, I'm Kingsley Nwosuagwu! 👋
 
-Cybersecurity Professional | SIEM | Governance, Risk, and Compliance (GRC) | Security Controls | Risk Management
+### 🌟 About Me
+- 🛡️ Cybersecurity Professional
+- 🔍 Focused on SIEM, Threat Detection, and Governance, Risk, and Compliance (GRC)
+- 💻 Experienced in implementing security controls and network security architecture
+- 📚 Passionate about cybersecurity, risk management, and security governance
 
-## Professional Summary
+### 💼 Professional Links
+- 🌐 [LinkedIn Profile](https://linkedin.com/in/kingsley-nwosuagwu)
+- 📂 GitHub Portfolio: https://github.com/kingsleykayjay
 
-Cybersecurity professional with experience implementing security controls, monitoring system activity, and supporting secure infrastructure environments. Skilled in security monitoring, access control implementation, risk identification, and security documentation.
+### 🛠️ Skills
 
-Demonstrates practical expertise in network security, threat detection, and governance-aligned security practices. Strong background in structured environments requiring risk tracking, compliance support, and secure system implementation.
-
-## Core Competencies
-
+**Cybersecurity**
 - Security Information and Event Management (SIEM)
 - Governance, Risk, and Compliance (GRC)
-- Threat Detection and Security Monitoring
-- Network Security and Access Control
-- Security Controls Implementation
+- Threat Detection and Monitoring
+- Network Security
+- Access Control Implementation
 - Risk Identification and Mitigation
-- Security Documentation and Compliance Support
 
-## Security Focus Areas
+**Tools**
+- Cisco Packet Tracer
+- Wireshark
+- Wazuh
+- Pfsense
+- Ubuntu
+- Microsoft Project
+- Jira
+
+### 📈 GitHub Stats
+
+![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingsleykayjay&show_icons=true&theme=radical)
+
+### 🔐 Cybersecurity Focus
 
 - Security Monitoring and Threat Detection
 - Risk Management and Compliance
-- Access Control and Identity Security
-- Security Controls and Governance
-- Infrastructure Security
+- Security Controls Implementation
+- Network Security and Access Control
+- Cybersecurity Governance
 
-## Security Portfolio
+### ✨ Professional Goal
 
-This profile contains cybersecurity projects demonstrating security control implementation, network segmentation, access restriction, and governance-aligned security practices.
+To contribute to cybersecurity operations and governance by supporting security monitoring, risk management, and compliance initiatives.
