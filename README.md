@@ -1,16 +1,31 @@
-## Hi there 👋
+# Kingsley Nwosuagwu
 
-<!--
-**Kingsleykayjay/Kingsleykayjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Professional | SIEM | Governance, Risk, and Compliance (GRC) | Security Controls | Risk Management
 
-Here are some ideas to get you started:
+## Professional Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cybersecurity professional with experience implementing security controls, monitoring system activity, and supporting secure infrastructure environments. Skilled in security monitoring, access control implementation, risk identification, and security documentation.
+
+Demonstrates practical expertise in network security, threat detection, and governance-aligned security practices. Strong background in structured environments requiring risk tracking, compliance support, and secure system implementation.
+
+## Core Competencies
+
+- Security Information and Event Management (SIEM)
+- Governance, Risk, and Compliance (GRC)
+- Threat Detection and Security Monitoring
+- Network Security and Access Control
+- Security Controls Implementation
+- Risk Identification and Mitigation
+- Security Documentation and Compliance Support
+
+## Security Focus Areas
+
+- Security Monitoring and Threat Detection
+- Risk Management and Compliance
+- Access Control and Identity Security
+- Security Controls and Governance
+- Infrastructure Security
+
+## Security Portfolio
+
+This profile contains cybersecurity projects demonstrating security control implementation, network segmentation, access restriction, and governance-aligned security practices.
